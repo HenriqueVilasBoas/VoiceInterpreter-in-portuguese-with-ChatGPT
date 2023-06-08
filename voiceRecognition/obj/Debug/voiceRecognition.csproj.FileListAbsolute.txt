@@ -1,0 +1,106 @@
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\bin\Debug\voiceRecognition.exe.config
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\bin\Debug\voiceRecognition.exe
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\bin\Debug\voiceRecognition.pdb
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\bin\Debug\Microsoft.Speech.dll
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.csprojResolveAssemblyReference.cache
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.Properties.Resources.resources
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.csproj.GenerateResource.Cache
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.exe
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.pdb
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\voiceRecognition.exe.config
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\voiceRecognition.exe
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\voiceRecognition.pdb
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Speech.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\OpenAI_API.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Buffers.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Memory.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\OpenAI_API.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Buffers.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Memory.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\obj\Debug\voiceRecognition.csproj.AssemblyReference.cache
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\obj\Debug\voiceRecognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\obj\Debug\voiceRecognition.Form1.resources
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\obj\Debug\voiceRecognition.Properties.Resources.resources
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\obj\Debug\voiceRecognition.csproj.GenerateResource.cache
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\obj\Debug\voiceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\obj\Debug\voiceRecognition.csproj.CopyComplete
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\obj\Debug\voiceRecognition.exe
+C:\Users\Leonel\source\repos\ChatGPTVoice\Voice_Recognition-master\voiceRecognition\obj\Debug\voiceRecognition.pdb
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\voiceRecognition.exe.config
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\voiceRecognition.exe
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\voiceRecognition.pdb
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Speech.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\OpenAI_API.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\ReaLTaiizor.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Buffers.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Memory.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\OpenAI_API.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\ReaLTaiizor.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Buffers.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Memory.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\obj\Debug\voiceRecognition.csproj.AssemblyReference.cache
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\obj\Debug\voiceRecognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\obj\Debug\voiceRecognition.Form1.resources
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\obj\Debug\voiceRecognition.Properties.Resources.resources
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\obj\Debug\voiceRecognition.csproj.GenerateResource.cache
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\obj\Debug\voiceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\obj\Debug\voiceRecognition.csproj.CopyComplete
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\obj\Debug\voiceRecognition.exe
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\obj\Debug\voiceRecognition.pdb
+C:\Users\Leonel\Documents\GitHub\Voice-Interpreter-in-portuguese\voiceRecognition\bin\Debug\FontAwesome.Sharp.dll
